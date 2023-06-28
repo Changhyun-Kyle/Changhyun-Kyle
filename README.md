@@ -30,7 +30,9 @@
 ## Where to find me
 * ✉️ Email : changhyun.kyle@gmail.com
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changhyun-Kyle)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **Changhyun-Kyle/Changhyun-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
