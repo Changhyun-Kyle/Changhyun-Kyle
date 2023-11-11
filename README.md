@@ -18,7 +18,7 @@
 
 - 팀원 : iOS 개발 10명
 - 담당 역할 : iOS 개발(홈 뷰 - 네이버 지도 API 개발 담당)
-- 진행 기간 : 2023.01 - 2022.03 (3개월)
+- 진행 기간 : 2023.01 - 2023.03 (3개월)
 - [README](https://github.com/Changhyun-Kyle/finalproject-bottles)
 - 키워드 : MVVM, SwiftUI, UIKit, Firebase
 
