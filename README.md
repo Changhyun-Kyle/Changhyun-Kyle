@@ -25,7 +25,7 @@
 ## iOS Education
 ### 🍎 iOS 부트캠프 / 멋쟁이사자처럼 앱 스쿨: iOS 1기
 * 교육 기간 : 2022.09 - 2023.02 (5개월 과정 수료) 
-* 교육 내용 : Swift/iOS 및 CS 지식을 학습. 10개 팀/개인 프로젝트, 현업 개발자 코드리뷰 진행
+* 교육 내용 : Swift/iOS 및 CS 지식을 학습. 12개 팀/개인 프로젝트, 현업 개발자 코드리뷰 진행
 
 ## Where to find me
 * ✉️ Email : changhyun.kyle@gmail.com
