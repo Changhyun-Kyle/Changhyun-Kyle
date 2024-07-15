@@ -23,9 +23,13 @@
 - 키워드 : MVVM, SwiftUI, UIKit, Firebase
 
 ## iOS Education
-### 🍎 iOS 부트캠프 / 멋쟁이사자처럼 앱 스쿨: iOS 1기
+### 🌱 [맛있는 코드 X SeSSAC] AI 활용 iOS 개발자 부트캠프 동대문 1기
+* 교육 기간 : 2023.11 - 2024.05 (6개월 과정 수료) 
+* 교육 내용 : Swift/UIKit 및 CS 지식을 학습. 팀/개인 프로젝트, 현업 개발자 코드리뷰 진행
+
+### 🦁 멋쟁이사자처럼 앱 스쿨: iOS 1기
 * 교육 기간 : 2022.09 - 2023.02 (5개월 과정 수료) 
-* 교육 내용 : Swift/iOS 및 CS 지식을 학습. 12개 팀/개인 프로젝트, 현업 개발자 코드리뷰 진행
+* 교육 내용 : Swift/SwiftUI 학습. 12개 팀/개인 프로젝트
 
 ## Where to find me
 * ✉️ Email : changhyun.kyle@gmail.com
